@@ -11,6 +11,6 @@ epm:install elves/acme
 To use:
 
 ```
-use elves:acme:acme
-elves:acme:acme:acme
+use elves/acme/acme
+acme:acme
 ```
